@@ -8,13 +8,13 @@
 <body>
 	<h1>LAMPS Data</h1><p>
 	<b class="NORM">.</b><br>
-	├── [&nbsp;10M]&nbsp;&nbsp;<b class="DIR">10_11_16_build</b><br>
-	│   ├── [128K]&nbsp;&nbsp;<b class="DIR">boresight</b><br>
+	├── [316G]&nbsp;&nbsp;<b class="DIR">10_11_16_build</b><br>
+	│   ├── [292G]&nbsp;&nbsp;<b class="DIR">boresight</b><br>
 	│   │   ├── [6.3M]&nbsp;&nbsp;<b class="EXEC">Rec-000001.ats</b><br>
 	│   │   ├── [532M]&nbsp;&nbsp;<b class="EXEC">Rec-000002.ats</b><br>
 	│   │   ├── [532M]&nbsp;&nbsp;<b class="EXEC">(Many files of the same type)</b><br>
 	│   │   └── [532M]&nbsp;&nbsp;<b class="EXEC">Rec-000571.ats</b><br>
-  │   └── [9.9M]&nbsp;&nbsp;<b class="DIR">layers</b><br>
+  │   └── [&nbsp;24G]&nbsp;&nbsp;<b class="DIR">layers</b><br>
   │   &nbsp;&nbsp;&nbsp; │   ├── [842K]&nbsp;&nbsp;<b class="EXEC">15.15.39.68324.png</b><br>
 	│   &nbsp;&nbsp;&nbsp; │   ├── [750K]&nbsp;&nbsp;<b class="EXEC">15.16.01.05104.png</b><br>
 	│   &nbsp;&nbsp;&nbsp; │   ├── [837K]&nbsp;&nbsp;<b class="EXEC">15.16.20.75124.png</b><br>
@@ -28,10 +28,10 @@
 	│   &nbsp;&nbsp;&nbsp; │   ├── [&nbsp;217]&nbsp;&nbsp;<b class="EXEC">Quartz Lamp Duty Cycle.csv</b><br>
 	│   &nbsp;&nbsp;&nbsp; │   ├── [3.6M]&nbsp;&nbsp;<b class="EXEC">Thermal ROI Mean over Time.tot</b><br>
 	│   &nbsp;&nbsp;&nbsp; │   └── [1.8K]&nbsp;&nbsp;<b class="EXEC">Thermocouples.csv</b><br>
-	│   &nbsp;&nbsp;&nbsp; ├── [320K]&nbsp;&nbsp;<b class="DIR">Layer 371</b><br>
-	│   &nbsp;&nbsp;&nbsp; ├── [320K]&nbsp;&nbsp;<b class="DIR">(29 more directories with similar content)</b><br>
-	│   &nbsp;&nbsp;&nbsp; └── [320K]&nbsp;&nbsp;<b class="DIR">Layer 400</b><br>
-	├── [8.0K]&nbsp;&nbsp;<b class="DIR">10_11_16_TensileTestResults</b><br>
+	│   &nbsp;&nbsp;&nbsp; ├── [750M]&nbsp;&nbsp;<b class="DIR">Layer 371</b><br>
+	│   &nbsp;&nbsp;&nbsp; ├── [750M]&nbsp;&nbsp;<b class="DIR">(29 more directories with similar content)</b><br>
+	│   &nbsp;&nbsp;&nbsp; └── [750M]&nbsp;&nbsp;<b class="DIR">Layer 400</b><br>
+	├── [2.8M]&nbsp;&nbsp;<b class="DIR">10_11_16_TensileTestResults</b><br>
 	│   ├── [1.4M]&nbsp;&nbsp;<b class="DIR">10_11_16_ZbarBuild.is_tens_RawData</b><br>
 	│   │   ├── [&nbsp;53K]&nbsp;&nbsp;<b class="EXEC">Specimen_RawData_1.csv</b><br>
 	│   │   ├── [&nbsp;52K]&nbsp;&nbsp;<b class="EXEC">Specimen_RawData_2.csv</b><br>
@@ -73,8 +73,7 @@
 	│   &nbsp;&nbsp;&nbsp; │   ├── [&nbsp;260]&nbsp;&nbsp;<b class="EXEC">Quartz Lamp Duty Cycle.csv</b><br>
 	│   &nbsp;&nbsp;&nbsp; │   ├── [1.9M]&nbsp;&nbsp;<b class="EXEC">Thermal ROI Mean over Time.tot</b><br>
 	│   &nbsp;&nbsp;&nbsp; │   └── [2.3K]&nbsp;&nbsp;<b class="EXEC">Thermocouples.csv</b><br>
-  │   &nbsp;&nbsp;&nbsp; ├── [4.0K]&nbsp;&nbsp;<b class="DIR">.</b><br>
-	│   &nbsp;&nbsp;&nbsp; ├── [4.0K]&nbsp;&nbsp;<b class="DIR">.</b><br>
+  │   &nbsp;&nbsp;&nbsp; ├── [4.0K]&nbsp;&nbsp;<b class="DIR">(489 more directories with similar content)</b><br>
 	│   &nbsp;&nbsp;&nbsp; └── [4.0K]&nbsp;&nbsp;<b class="DIR">Layer 721</b><br>
  	└── [2.2M]&nbsp;&nbsp;<b class="DIR">11_03_16_TensileTestResults</b><br>
 	    ├── [418K]&nbsp;&nbsp;<b class="EXEC">11_3_16_Zbuild_test.id_tens</b><br>

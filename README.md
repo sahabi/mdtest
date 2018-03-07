@@ -90,7 +90,4 @@
  
  528G of data in 761 directories and 196717 files
 
-	<br><br>
-	</p>
-	<p>
 </html>

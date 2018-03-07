@@ -11,7 +11,6 @@
 	├── [316G]&nbsp;&nbsp;<b class="DIR">10_11_16_build</b><br>
 	│   ├── [292G]&nbsp;&nbsp;<b class="DIR">boresight</b><br>
 	│   │   ├── [6.3M]&nbsp;&nbsp;<b class="EXEC">Rec-000001.ats</b><br>
-	│   │   ├── [532M]&nbsp;&nbsp;<b class="EXEC">Rec-000002.ats</b><br>
 	│   │   ├── [532M]&nbsp;&nbsp;<b class="EXEC">(Many files of the same type)</b><br>
 	│   │   └── [532M]&nbsp;&nbsp;<b class="EXEC">Rec-000571.ats</b><br>
   │   └── [&nbsp;24G]&nbsp;&nbsp;<b class="DIR">layers</b><br>
@@ -19,7 +18,6 @@
 	│   &nbsp;&nbsp;&nbsp; │   ├── [750K]&nbsp;&nbsp;<b class="EXEC">15.16.01.05104.png</b><br>
 	│   &nbsp;&nbsp;&nbsp; │   ├── [837K]&nbsp;&nbsp;<b class="EXEC">15.16.20.75124.png</b><br>
 	│   &nbsp;&nbsp;&nbsp; │   ├── [1.2M]&nbsp;&nbsp;<b class="EXEC">15.16.22.45254 511 by 640.32f</b><br>
-	│   &nbsp;&nbsp;&nbsp; │   ├── [1.2M]&nbsp;&nbsp;<b class="EXEC">15.16.22.48654 511 by 640.32f</b><br>
 	│   &nbsp;&nbsp;&nbsp; │   ├── [1.2M]&nbsp;&nbsp;<b class="EXEC">(Many more files with similar data)</b><br>
 	│   &nbsp;&nbsp;&nbsp; │   ├── [1.2M]&nbsp;&nbsp;<b class="EXEC">15.16.41.32284 511 by 640.32f</b><br>
 	│   &nbsp;&nbsp;&nbsp; │   ├── [1.1K]&nbsp;&nbsp;<b class="EXEC">Heaters.csv</b><br>
@@ -34,7 +32,6 @@
 	├── [2.8M]&nbsp;&nbsp;<b class="DIR">10_11_16_TensileTestResults</b><br>
 	│   ├── [1.4M]&nbsp;&nbsp;<b class="DIR">10_11_16_ZbarBuild.is_tens_RawData</b><br>
 	│   │   ├── [&nbsp;53K]&nbsp;&nbsp;<b class="EXEC">Specimen_RawData_1.csv</b><br>
-	│   │   ├── [&nbsp;52K]&nbsp;&nbsp;<b class="EXEC">Specimen_RawData_2.csv</b><br>
 	│   │   ├── [&nbsp;68K]&nbsp;&nbsp;<b class="EXEC">(27 more files with similar data)</b><br>
 	│   │   └── [&nbsp;56K]&nbsp;&nbsp;<b class="EXEC">Specimen_RawData_30.csv</b><br>
 	│   ├── [506K]&nbsp;&nbsp;<b class="EXEC">10_11_16_ZbarBuild.id_tens</b><br>

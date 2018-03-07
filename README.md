@@ -97,6 +97,4 @@
 	<br><br>
 	</p>
 	<p>
-
-	</body>
 </html>

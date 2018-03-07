@@ -85,8 +85,11 @@
 	<br><br>
 	</p>
 	<p>
+ 
+ Stats:
+ 
+ 528G of data in 761 directories and 196717 files
 
- 528G used in 761 directories, 196717 files
 	<br><br>
 	</p>
 	<p>
